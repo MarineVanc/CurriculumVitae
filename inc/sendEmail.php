@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 // Replace this with your own email address
 $siteOwnersEmail = 'm.vancleemput@hotmail.fr';
@@ -29,7 +29,7 @@ if($_POST) {
 
    // Set Message
    $message .= "Email de: " . $name . "<br />";
-	$message .= "Adresse mail: " . $email . "<br />";
+	 $message .= "Adresse mail: " . $email . "<br />";
    $message .= "Message: <br />";
    $message .= $contact_message;
    $message .= "<br /> ----- <br /> Cet e-mail a été envoyé depuis le formulaire de contact de votre site. <br />";
