@@ -132,6 +132,7 @@
       animationSpeed: 400,
       randomize: false,
    });
+});
 
 /*----------------------------------------------------*/
 /*	contact form
