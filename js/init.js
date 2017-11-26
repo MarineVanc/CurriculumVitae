@@ -136,8 +136,7 @@
 /*----------------------------------------------------*/
 /*	contact form
 ------------------------------------------------------*/
-
-   $('form#contactForm button.submit').click(function() {
+/*   $('form#contactForm button.submit').click(function() {
 
       $('#image-loader').fadeIn();
 
@@ -178,3 +177,4 @@
 
 
 });
+*/
